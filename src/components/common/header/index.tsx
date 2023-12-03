@@ -6,8 +6,8 @@ import {
   NavContainer,
   NavStyle,
 } from "./styles";
-import LogoBlackImage from "../../../assets/logoBlackImg.svg";
-// import LogoWhiteImage from "../../../assets/logoWhiteImg.svg";
+import LogoBlackIc from "../../../assets/logoBlackImg.svg";
+// import LogoWhiteIc from "../../../assets/logoWhiteImg.svg";
 
 const Header = () => {
   const scrollToTop = () => {
@@ -19,7 +19,7 @@ const Header = () => {
       <HeaderContainer>
         <NavStyle to="/">
           <Container>
-            <MainLogo src={LogoBlackImage} onClick={scrollToTop} />
+            <MainLogo src={LogoBlackIc} onClick={scrollToTop} />
           </Container>
         </NavStyle>
         <NavContainer>
