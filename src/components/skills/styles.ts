@@ -7,5 +7,9 @@ export const SkillsContainer = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: ${COLOR.Main_Pink};
+  background: linear-gradient(
+    180deg,
+    ${COLOR.Side_Blue} 0%,
+    ${COLOR.Main_Pink} 100%
+  );
 `;

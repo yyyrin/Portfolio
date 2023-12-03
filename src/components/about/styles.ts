@@ -8,7 +8,11 @@ export const AboutContainer = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(180deg, #001b79 0%, #1640d6 100%);
+  background: linear-gradient(
+    180deg,
+    ${COLOR.Main_Blue} 0%,
+    ${COLOR.Side_Blue} 100%
+  );
 `;
 
 export const TitleStyle = styled.div`

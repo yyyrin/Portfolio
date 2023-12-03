@@ -7,5 +7,9 @@ export const ProjectsContainer = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: ${COLOR.Side_Pink};
+  background: linear-gradient(
+    180deg,
+    ${COLOR.Main_Pink} 0%,
+    ${COLOR.Side_Pink} 100%
+  );
 `;
