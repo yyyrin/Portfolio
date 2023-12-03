@@ -1,3 +1,4 @@
 import ImagePage from "./ImagePage";
+import PortfolioPage from "./PortfolioPage";
 
-export { ImagePage };
+export { PortfolioPage, ImagePage };
