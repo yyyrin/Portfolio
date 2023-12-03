@@ -18,6 +18,7 @@ export const HeaderContainer = styled.div`
   height: 60px;
   padding: 0px 60px;
   background-color: white;
+  z-index: 999;
 `;
 
 export const Container = styled.div`
