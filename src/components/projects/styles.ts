@@ -46,7 +46,7 @@ export const BoxStyle = styled.div`
   flex-direction: column;
   align-items: center;
   border-radius: 30px;
-  padding: 24px 80px;
+  padding: 30px 80px;
   box-shadow: 0px 10px 10px 4px rgba(0, 0, 0, 0.4);
   width: 60%;
 `;
@@ -128,7 +128,7 @@ export const BoxLineStyle = styled.div`
   }
   &.web {
     flex-grow: 1;
-    border-left: 2px solid ${COLOR.Side_Blue};
+    border-left: 1px solid ${COLOR.Side_Blue};
   }
 `;
 
