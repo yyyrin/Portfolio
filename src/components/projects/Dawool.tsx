@@ -73,7 +73,8 @@ const Dawool = () => {
             <ProjectDivisionStyle>
               <ProjectDivisionNameStyle>✔️ 주요 역할</ProjectDivisionNameStyle>
               <ProjectDivisionContentStyle>
-                Front-end 4명 / Back-end 2명 (총 6명)
+                여행지 목록 페이지(lazy loading, 지역별 필터링) 및 취향 설문
+                페이지 구현, 공통 컴포넌트 모듈화, UI/UX 디자인
               </ProjectDivisionContentStyle>
             </ProjectDivisionStyle>
             <ProjectDivisionStyle>

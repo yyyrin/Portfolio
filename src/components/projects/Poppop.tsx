@@ -69,7 +69,8 @@ const Poppop = () => {
             <ProjectDivisionStyle>
               <ProjectDivisionNameStyle>✔️ 주요 역할</ProjectDivisionNameStyle>
               <ProjectDivisionContentStyle>
-                Front-end 4명 / Back-end 2명 (총 6명)
+                푸시 알림 기능 및 권한 설정, FCM 활용, 채팅방 목록 및 header
+                컴포넌트 모듈화
               </ProjectDivisionContentStyle>
             </ProjectDivisionStyle>
             <ProjectDivisionStyle>
