@@ -9,7 +9,7 @@ import {
 
 const Projects = () => {
   return (
-    <ProjectsContainer id="projects">
+    <ProjectsContainer>
       <TitleStyle>Projects</TitleStyle>
       <LineStyle />
       <BoxGroupContainer>

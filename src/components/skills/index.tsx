@@ -15,7 +15,7 @@ import CommunicationToolImage from "../../assets/communicationToolImg.png";
 
 const Skills = () => {
   return (
-    <SkillsContainer id="skills">
+    <SkillsContainer>
       <TitleStyle>Skills</TitleStyle>
       <LineStyle />
       <BoxGroupContainer>
